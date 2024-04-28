@@ -3,7 +3,7 @@
 <img style="width: 250px;" src="cover.png">
 
 - **Artist:** Vincent Diamante
-- **Duration:** 01:13:36
+- **Duration:** 01:13:56
 - **Genre:** Video Game Soundtrack
 - **Release Date:** 16.07.2021
 - **Label:** thatgamecompany
